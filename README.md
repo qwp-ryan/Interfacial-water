@@ -4,7 +4,7 @@ all the materials about the interfacial water
 The first information coming is from water structure and science http://www1.lsbu.ac.uk/water/interfacial_water.html
  
 ## Interfacial water and water-gas interfaces
-#####The behavior of water at interfaces is unusual due to its strongly-hydrogen-bonded nature and its ability to hold a charge.
+The behavior of water at interfaces is unusual due to its strongly-hydrogen-bonded nature and its ability to hold a charge.
  
 >The surface of water
 >The air-water surface <sup>k</sup> is a very complex system [2629] and certainly not as simple as often assumed. Even as we struggle over the best description for the bulk structuring of water and the water’s interactions with ions and other solutes, the surface of water is even more challenging. Its structure varies with temperature, gas molecules binding, ions binding or being excluded, electrical gradients being set up and its dielectric and chemistry changes with apparent unpredictability. Further, both sides of the interface have µm thick unstirred layers different from the bulk(gas or liquid) phases.
