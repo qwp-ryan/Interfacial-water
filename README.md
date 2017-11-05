@@ -18,9 +18,9 @@ than given by most techniques that look only at a restricted range of selected p
 an effective depth of the liquid surface measured in many nanometers [2751]. Clearly, such a definition of surface depth cannot 
 encompass a charged surface. Therefore, any charge seen on the surface may depend upon the surface layer thickness under 
 consideration. It may well vary between methodologies with different probe depths.  Also confusing the issue is that the surface 
-is rough (with ~15% increased surface area [2697] ) rather than planar and is in constant flux rather than thermodynamically 
+is rough (with \~ 15% increased surface area [2697] ) rather than planar and is in constant flux rather than thermodynamically 
 static. In a difference to hydrophobic solid/water interfaces, the gas/water surface is not flat, even in the most still conditions. 
-It has surface nanoscopic waves (~ Å, [2697] ) existing on the water that scatter light with low intensity [2407]. Energetic 
+It has surface nanoscopic waves (\~ Å, [2697] ) existing on the water that scatter light with low intensity [2407]. Energetic 
 considerations indicate, however, that these surface capillary waves are unlikely to be more than about a water diameter high 
 due to water’s high surface tension. In addition to this, several million monolayers exchange with the gas phase every second [2408] 
 and cause evaporation-dependent temperature gradients [2714], so giving rise to long-lasting surface discontinuities and 
