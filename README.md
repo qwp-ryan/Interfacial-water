@@ -62,5 +62,20 @@ a separate thermodynamic system [2263]? That is not specific.
 
 Definition!!!! We should collect all the definitions of interfacial water. And analysis them.
 
+##Interfacial water
+
+>Density of interfacial water and concentration of ions at a liquid water-gas interface; charges are not meant to be exact representations 
+As proven by Michael Faraday in 1843 [2471], the ‘natural’ state of such interfaces appears to be negative [1266, 1433, 1477, 1591, 1905, 1951], e as at hydrophobic surfaces [1347, 1607]. The interactions of ions [1351], and particularly H+ and OH- ions, with the interface has been reviewed [1641]. Chaotropic ions with low surface charge density and/or high polarizability (such as Cl<sup>-</sup>, Br<sup>-</sup>, I<sup>-</sup>, HO<sub>2</sub><sup>-</sup> and O<sub>2</sub>·<sup>-</sup>, but see ion effects in foams) will favor the gas-liquid interfaces [928a] as they only interact weakly with water (and so can easily lose bound water) but are influenced by the highly polarized surface. Charge transfer causes the surface to reflect the charge on the ions close to the surface [2147], usually anions. Due to charge transfer, the water molecules at the surface may become negatively charged, even when the anion is over 15 Å away from the surface [2147]. An additional effect is charge transfer where the outside water molecules contain more hydrogen-bond acceptors whereas the water molecules just to the inside of the slip-plane contain an excess of hydrogen-bond donors [2811].
+
+ 
+
+>Aqueous radicals also prefer to reside at such interfaces [939], as do some molecular species that prefer to hydrogen bond on the outside of clathrate-like structures; superoxide <sup>h</sup> for example [1260]. The presence of radicals at the surface is further shown by their release when microbubbles collapse [2068]. Excess electrons have been found to be stable at the surface of ice for several minutes [1836]. 
+
+ 
+
+>A combination of kosmotropic/kosmotropic (e.g. LiCl) or chaotropic/ chaotropic (e.g. CsI) ions leads to the formation of ion-pairs at the liquid-air interface whereas there appears to be no, or only small amounts of, such contact ion-pairs in the bulk water [2416]. Li<sup>+</sup> behaves differently fromother Group I cations (e.g. K<sup>+</sup>) in that it Li<sup>+</sup> adsorbs to the aqueous solution-vapor interface [3081]. This is thought due to the Li<sup>+</sup> ion holding onto its full hydration shell even in the topmost layer of the solution Small cations (kosmotropes, but see ion effects in foams) are found away from the interface towards the bulk where their requirement for efficient hydration may be satisfied and as they cannot easily be stripped of the bound water by the interface. Also, there is a very large electrostatic solvation free energy cost that prevents adsorption of low polarizability ions at hydrophobic interfaces such as oils or air [2117]. Such cations only approach the interface in response to the surface negative charge. An exception to this is the oxonium ion (H3O<sup>+</sup>), which has a much stronger preference for the surface than other small cations [1500]. In acid solutions, oxonium ions point away from the surface as they only poorly accept hydrogen bonds (but strongly donate three), with their oxygen atom pointing at the surface [1308]. This encourages these ions to sit in the surface layer [1308] in the absence of competing anions such as OH<sup>-</sup> (see interfacial ions) and can lead to the charging of hydrophobic surfaces in acid solution [1584]. Mostly however at neutral pHs, there is a lower concentration of hydrogen ions than anions at the surface.
+
+ 
+
 
 
