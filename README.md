@@ -60,7 +60,7 @@ a separate thermodynamic system [2263]? That is not specific.
 >The density, dielectric (permittivity, [738b]) and dipole moment of interfacial water change from their bulk water values to that of the gas over a distance of less than about a nanometer. Thus water’s solvation and dissociation properties also change at the interface, with ions and hydrophilic solutes generally being less soluble but non-polar gases more soluble [1259]. Ions, including hydrogen and hydroxide ions, and other solutes will behave differently at the surface to their behavior in the bulk. Perhaps the most important property of the surface, after the surface tension, concerns how it affects the local ion distribution. Some ions prefer the surface as shown by their effect on the surface tension (Jones-Ray effect) [674] and bubble coalescence. Both OH<sup>-</sup> [1025, 1266] and H3O<sup>+</sup> [1308] can sit at gas/water interfaces, although clearly not at the same time due to their rapid recombination to form H2O within this lower dielectric interface. As OH<sup>-</sup> ions are preferred over H3O<sup>+</sup> ions (above about pH 3-4), f this generally reinforces the interface's negative charge compared with the bulk. Strong acids like HCl and particularly HNO3 re-associate at the interface [2190], so allowing their evaporation. However weak acids, such as formic and acetic acids, have a strong surface preference but dissociate more rapidly when at the surface, so reducing evaporation [2787].
 
 
-
+Definition!!!! We should collect the definition of interfacial water.
 
 
 
