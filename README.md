@@ -8,21 +8,25 @@ The behavior of water at interfaces is unusual due to its strongly-hydrogen-bond
  
 >The surface of water
 >The air-water surface <sup>k</sup> is a very complex system [2629] 
+
 The most recently summary.
 
 >and certainly not as simple as often assumed. Even as we struggle over the best description for the bulk structuring of water and the water’s interactions with ions and other solutes, the surface of water is even more challenging. Its structure varies with temperature, gas molecules binding, ions binding or being excluded, electrical gradients being set up and its dielectric and chemistry changes with apparent unpredictability. Further, both sides of the interface have µm thick unstirred layers different from the bulk(gas or liquid) phases.
  
 >How far do the gas and liquid surfaces extend? Certainly, the volume of liquid water considered ‘surface’ should be electrically neutral and this is one definition for the surface thickness for water. 
+
 How many definitions of the surface thickness for water?
 
 >The interface must include the outer monolayer, the boundary that gives rise to any zeta potential,<sup>b</sup> any double layer of ions, plus deeper layers where there is surface-influenced anisotropy in either charge or structure. 
+
 The anisotropy is the key, But the anisotropy is only stands for the topology characters. How about the relaxation? or the relaxation is the subsequent of the anisotropy? 
 
 >The depth of this surface remains undetermined but it is likely to be somewhat greater than given by most techniques that look only at a restricted range of selected properties. 
-undetermined:?
-large.
+
+undetermined:? large.
 
 >There is much direct evidence for an effective depth of the liquid surface measured in many nanometers [2751]. 
+
 This citation should be read carefully. Especially for the definition of the surface depth. 
 The surface water is different water around a solute molecule? 
 
@@ -33,6 +37,7 @@ The surface water is different water around a solute molecule?
  
  
 >Interfacial water molecules at the gas-liquid surface have a strong attraction towards the bulk liquid causing a high surface tension. 
+
 Gas-liquid surface, our goal is more common, we concered with the interface between bulk water and anything else.
 
 >Liquid water at liquid-solid and liquid-gas interfaces behaves as a separate thermodynamic system from bulk water [2263]. 
