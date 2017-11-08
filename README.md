@@ -137,34 +137,30 @@ Image charge force, are likely to be right.
 
 >Although ice is often perceived as 'slippery' (for example, ice skating), it is also very 'sticky' (for example, the difficulty in removing ice from car windscreens, the compaction of snow to form 'snowballs' and the ease with which two ice cubes stick together). The underlying slipperiness of ice can be explained by the tetrahedral open structuring [1859] of the liquid water surface that aids the formation of a slipping plane on confinement, whereas its 'stickiness' is due to the refreezing of liquid water confined between ice surfaces. Capillary condensation of liquid water between a tungsten tip and a hydrophobic graphite surface using a friction force microscope has been proposed to form a sticky 'ice' at room temperature [1033]. l These different perceptions depend on the speed of the relative movement between the surfaces and the presence and properties of the ultra-thin layer of quasi-liquid water/amorphous ice on the crystalline surfaces [937] that may be 10 nm thick or greater. This surface layer is easily melted further by frictional heating with the low thermal conductivity of ice reducing the loss of heat. Also, there is a deformation of the ice, on skating, due to the pressure and the ease that the ice may deform (plowing). The trails behind the skates are due to both the melting and the plowing. At low skating speeds, the plowing dominates whilst at high speeds the friction in the water layer dominates [2944].
 
-Metal interfaces
-The oxygen atoms of water bind to metal atom surfaces whereas the hydrogen atoms hydrogen bond surface water [2734].
+>Metal interfaces
+
+>The oxygen atoms of water bind to metal atom surfaces whereas the hydrogen atoms hydrogen bond surface water [2734].
+ 
+
+>The 100 surface of Pt is four coordinated allowing fully hydrogen-bonding water
+ 
+
+>Surface oxide/hydroxide, if present due to the temperature and reactivity of the metal surface, also hydrogen bond to water. The hydrophilic/hydrophobic balance of a metal surface depends on the metal atom packing arrangement and spacing and the interaction time and temperature and pressure of the water contact. The structures are often uncovered experimentally by use of scanning tunneling microscopy (STM) [2739].
+
 
  
 
-The 100 surface of Pt is four coordinated allowing
+>The binding energy of the water oxygen atoms to the metal atoms Au < Ag < Cu < Pd < Pt < Ru < Rh vary between 12 and 40 kJ ˣ mol<sup>-1</sup> [2735], mostly slightly stronger than waters' hydrogen bonding. The structure of the bound H<sub>2</sub>O has little change upon adsorption, where they preferentially lie flat on the surface due to metal atoms' interactions of their 1b1 p-like lone pair orbitals (perpendicular to the plane of the water molecule) to metal 4d-orbitals [2740].
+
+>The 111 surface of Pt is six coordinated not allowing
 fully hydrogen-bonding water
 
-The 100 surface of Pt is four coordinated allowingfully hydrogen-bonding water 
-Surface oxide/hydroxide, if present due to the temperature and reactivity of the metal surface, also hydrogen bond to water. The hydrophilic/hydrophobic balance of a metal surface depends on the metal atom packing arrangement and spacing and the interaction time and temperature and pressure of the water contact. The structures are often uncovered experimentally by use of scanning tunneling microscopy (STM) [2739].
 
-
- 
-
-The binding energy of the water oxygen atoms to the metal atoms Au < Ag < Cu < Pd < Pt < Ru < Rh vary between 12 and 40 kJ ˣ mol-1 [2735], mostly slightly stronger than waters' hydrogen bonding. The structure of the bound H2O has little change upon adsorption, where they preferentially lie flat on the surface due to metal atoms' interactions of their 1b1 p-like lone pair orbitals (perpendicular to the plane of the water molecule) to metal 4d-orbitals [2740].
-
-The 111 surface of Pt is six coordinated not allowing
-fully hydrogen-bonding water
-
-The 111 surface of Pt is six coordinated not allowing
-fully hydrogen-bonding water in first layer 
- 
-
-As an example, the 100 face of a platinum crystal is four-coordinated allowing a hydrogen-bonded water sheet to form (see right top [2733]). As this water layer is fully hydrogen-bonded it forms a surprisingly substantial hydrophobic barrier to further water adhesion. Any further water added forms spherical droplets on the surface and do not spread. The 111 platinum crystal face (see right bottom, bonding to the most stable flat-on-surface water molecules about 34 kJ ˣ mol-1, bonding to upright water molecules about 9 kJ ˣ mol-1 ,Pt···O distances 2.36 Å, [2735]), however, is locally six coordinated and frustrates water's hydrogen bonding in the first layer so leaving further bonding sites on the effective hydrophilic surface layer and allowing further water to spread [2733]. The interfacial water molecules can diffuse within layers and exchange with secondary hydrating water through hydrogen bond rearrangements and quantum tunneling. Due to the different binding of the 111 face compared with the 100 face, the relaxation times of water molecules adsorbed on the 111 face are much faster [2736].
+>As an example, the 100 face of a platinum crystal is four-coordinated allowing a hydrogen-bonded water sheet to form (see right top [2733]). As this water layer is fully hydrogen-bonded it forms a surprisingly substantial hydrophobic barrier to further water adhesion. Any further water added forms spherical droplets on the surface and do not spread. The 111 platinum crystal face (see right bottom, bonding to the most stable flat-on-surface water molecules about 34 kJ ˣ mol<sup>-1</sup>, bonding to upright water molecules about 9 kJ ˣ mol<sup>-1</sup> ,Pt···O distances 2.36 Å, [2735]), however, is locally six coordinated and frustrates water's hydrogen bonding in the first layer so leaving further bonding sites on the effective hydrophilic surface layer and allowing further water to spread [2733]. The interfacial water molecules can diffuse within layers and exchange with secondary hydrating water through hydrogen bond rearrangements and quantum tunneling. Due to the different binding of the 111 face compared with the 100 face, the relaxation times of water molecules adsorbed on the 111 face are much faster [2736].
 
  
 
-Low-temperature scanning tunneling microscopy and density functional theory have shown the possibility of many water nano-clusters forming on metallic Cu surfaces. These hydrogen-bonded ring structures resemble the resonance structures of polycyclic aromatic hydrocarbons and allow a refinement of the so-called “2D ice rules”, which have proved useful in understanding water−ice structures at solid surfaces [2915].
+>Low-temperature scanning tunneling microscopy and density functional theory have shown the possibility of many water nano-clusters forming on metallic Cu surfaces. These hydrogen-bonded ring structures resemble the resonance structures of polycyclic aromatic hydrocarbons and allow a refinement of the so-called “2D ice rules”, which have proved useful in understanding water−ice structures at solid surfaces [2915].
 
 
 Footnotes
