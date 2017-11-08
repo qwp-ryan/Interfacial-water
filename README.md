@@ -76,59 +76,66 @@ As proven by Michael Faraday in 1843 [2471], the ‘natural’ state of such int
 >A combination of kosmotropic/kosmotropic (e.g. LiCl) or chaotropic/ chaotropic (e.g. CsI) ions leads to the formation of ion-pairs at the liquid-air interface whereas there appears to be no, or only small amounts of, such contact ion-pairs in the bulk water [2416]. Li<sup>+</sup> behaves differently fromother Group I cations (e.g. K<sup>+</sup>) in that it Li<sup>+</sup> adsorbs to the aqueous solution-vapor interface [3081]. This is thought due to the Li<sup>+</sup> ion holding onto its full hydration shell even in the topmost layer of the solution Small cations (kosmotropes, but see ion effects in foams) are found away from the interface towards the bulk where their requirement for efficient hydration may be satisfied and as they cannot easily be stripped of the bound water by the interface. Also, there is a very large electrostatic solvation free energy cost that prevents adsorption of low polarizability ions at hydrophobic interfaces such as oils or air [2117]. Such cations only approach the interface in response to the surface negative charge. An exception to this is the oxonium ion (H3O<sup>+</sup>), which has a much stronger preference for the surface than other small cations [1500]. In acid solutions, oxonium ions point away from the surface as they only poorly accept hydrogen bonds (but strongly donate three), with their oxygen atom pointing at the surface [1308]. This encourages these ions to sit in the surface layer [1308] in the absence of competing anions such as OH<sup>-</sup> (see interfacial ions) and can lead to the charging of hydrophobic surfaces in acid solution [1584]. Mostly however at neutral pHs, there is a lower concentration of hydrogen ions than anions at the surface.
 
  
-
-The zeta potential b of the surface of water is considerable and changes markedly with solute concentration (-65 mV for deionized water [1264], -46 mV for 0.1 mM NaCl, -18.8 mV for 0.1 M NaCl [1265] ). This is due to a surface charge density varying from about an electron per 1000 nm2 for pure water to about an electron per 10 nm2 for 0.1 M NaCl (using the equations from [1267]). The charge at the surface of deionized water with air is similar to that found on small oil droplets in water [711c].The aerosol mists formed at waterfalls (see left) are found to be negatively charged [2049].
-
- 
-
-Image charge
-
-generation of an 'image' charge 
- 
+ 
+>The zeta potential b of the surface of water is considerable and changes markedly with solute concentration (-65 mV for deionized water [1264], -46 mV for 0.1 mM NaCl, -18.8 mV for 0.1 M NaCl [1265] ). This is due to a surface charge density varying from about an electron per 1000 nm<sup>2</sup> for pure water to about an electron per 10 nm<sup>2</sup> for 0.1 M NaCl (using the equations from [1267]). The charge at the surface of deionized water with air is similar to that found on small oil droplets in water [711c].The aerosol mists formed at waterfalls (see left) are found to be negatively charged [2049].
 
  
 
-Controlling the approach of ions to the air-water interface is the 'image charge' force, where ions within a dielectric medium are repelled from a dielectric interface towards the bulk liquid by an “image” charge of the same size and polarity (see right). i This repulsion pushes any surface hydroxide ions away from the interface but only by an Ångström or so. If a charge lies on the outside of the interface then its image charge is attractive in the liquid phase as shown at the bottom of the diagram..
+>Image charge
 
-Water coats all hydrophilic surfaces open to ambient atmospheres that are not dried and the first absorbent layer is generally held strongly. Importantly this layer will affect the properties of the surface including their electrical properties and can cause negative resistance [2223]. The viscosity of water at hydrophilic surfaces may be orders of magnitude greater than that in the bulk but may be reduced considerably by light (670 nm [2378]). Disrupting the 'unstirred layer' next to a surface has pronounced effects on the surface charge and surface chemistry which can last for several minutes after the stirring has ceased [2138]. Therefore under flow conditions, all surfaces should be considered as dynamic including gas-liquid interfaces where there are continuous molecular evaporations and condensations. 
+>generation of an 'image' charge 
+ 
 
  
 
-Putative surface binding of gasses
+>Controlling the approach of ions to the air-water interface is the 'image charge' force, 
 
-Surface binding of gasses to expanded water clusters 
-Atomic force microscopy at air/water interfaces has indicated that the surface polarization causes the presence of nano-sized clusters of water d within about 250 nm of the interface [738]. The reduced density and stronger hydrogen bonds within the surface will both contribute to the stabilization of water clusters; particularly that of ES over CS full and partial clustering. Small gas molecules bind to these surface clusters due to multiple van der Waals dispersion interactions plus the good fit between the gas molecules and the clusters. There is no possibly-negative influence caused by the necessary closure of the clusters within the bulk. This offers an explanation for the greater solubility of the hydrophobic gases at the interface as they can occupy clathrate-type water dodecahedra. They are also thought important in clathrate hydrate formation at liquid-gas interfaces [2563].
+Image charge force, are likely to be right.
 
- 
+>where ions within a dielectric medium are repelled from a dielectric interface towards the bulk liquid by an “image” charge of the same size and polarity (see right). i This repulsion pushes any surface hydroxide ions away from the interface but only by an Ångström or so. If a charge lies on the outside of the interface then its image charge is attractive in the liquid phase as shown at the bottom of the diagram..
 
-This is also supported by the exceptionally small difference in surface density from the bulk density as shown by the abnormally large pressure coefficient of the surface tension
+>Water coats all hydrophilic surfaces open to ambient atmospheres that are not dried and the first absorbent layer is generally held strongly. Importantly this layer will affect the properties of the surface including their electrical properties and can cause negative resistance [2223]. 
 
-(Change in surface tension with pressure=change in volume on change in surface area) [1280] at ambient temperature.
+"absorbent layer" "hydration layer" 
 
- 
-
-Interestingly, the air-water interface may give rise to chiral selectivity and recognition [1285]. The surface may, therefore, act as the isotropic bulk cannot. It presents a mechanism for the choice of chirality early in the formation of life's molecules; for example, the D-series of carbohydrates and the L-series of amino acids. Even simple neutral organic pollutants such as phenol have been shown to significantly affect the interfacial water structure [3083].
+>The viscosity of water at hydrophilic surfaces may be orders of magnitude greater than that in the bulk but may be reduced considerably by light (670 nm [2378]). Disrupting the 'unstirred layer' next to a surface has pronounced effects on the surface charge and surface chemistry which can last for several minutes after the stirring has ceased [2138]. Therefore under flow conditions, all surfaces should be considered as dynamic including gas-liquid interfaces where there are continuous molecular evaporations and condensations. 
 
  
 
-Recently, it has been discovered that the charge on the interface affects the freezing point of supercooled water [1737]. On a surface with no electric field, water droplets were found to freeze at around -12.5 °C. On a positively charged surface, however, the freezing point is raised to -7 °C, while if the surface is negatively charged the droplet does not freeze until the temperature reaches -18 °C. Whether this strange behavior is due to the reversal of the charge of the natural negatively-charged surface destroying the water clustering has yet to be determined. 
+>Putative surface binding of gasses
 
-[Back to Top to top of page]
-
-The surface of ice (Why is ice slippery?) 
-There is a recent review of the surface of ice [3006]. Hexagonal ice is a very soft material (1.5 on the Mohs scale) being scratched by most crystalline solids except soapstone, Mg3Si4O10(OH)2. The surface is liquid below 0 °C due to the pressure melting caused by the one-sided attractive interaction with the underlying solid ice [1686]. There is good evidence that the surface layer is indistinguishable from normal liquid water with a thickness that depends upon the temperature (that is, the further below the freezing point, the thinner the layer; it being many nanometers thick at -1 °C but has disappeared by about -38 °C). There appears to be a weakening of the hydrogen-bonded structure of the outermost water (corrugated) layers on the basal face at 257 K. This has been interpreted in terms of a stepwise change from one to two molten layers [2842]. 
+>Surface binding of gasses to expanded water clusters 
+>Atomic force microscopy at air/water interfaces has indicated that the surface polarization causes the presence of nano-sized clusters of water d within about 250 nm of the interface [738]. The reduced density and stronger hydrogen bonds within the surface will both contribute to the stabilization of water clusters; particularly that of ES over CS full and partial clustering. Small gas molecules bind to these surface clusters due to multiple van der Waals dispersion interactions plus the good fit between the gas molecules and the clusters. There is no possibly-negative influence caused by the necessary closure of the clusters within the bulk. <strong>This offers an explanation for the greater solubility of the hydrophobic gases at the interface as they can occupy clathrate-type water dodecahedra. They are also thought important in clathrate hydrate formation at liquid-gas interfaces [2563].</strong>
 
  
 
-Recently it has been proposed that the quasi-liquid layer is made up of two-phase types that exhibit different morphologies (droplets and thin layers) [2581]. The surfaces can be examined by laser confocal microscopy combined with differential interference contrast microscopy (LCM-DIM), which can directly visualize the 0.37-nm-thick elementary steps on ice crystal surface. The non-equilibrium growth of these layers seems to form by the deposition of (critically) supersaturated water vapor onto the ice surface rather than by the surface melting of the ice or the sublimation of ice caused by undersaturated water vapor [2581].
+>This is also supported by the exceptionally small difference in surface density from the bulk density as shown by the abnormally large pressure coefficient of the surface tension
+
+>(Change in surface tension with pressure=change in volume on change in surface area) [1280] at ambient temperature.
 
  
 
-As the surface of ice, near its melting point and exposed to the air, is partially melted, it is able to take up ions and organic molecules with ease. Dissolved materials lower the freezing point and so increase the thickness of the molten layer. Also, reactions take place within this liquid-like phase. However, the pre-melted surface of ice has unique solvation properties, different from those of liquid water, in that ions dissolve but small molecular weight hydrophilic organic molecules, such as glyoxal (O=CH-CH=O), do not [2969]. At low temperatures (~150 K), the melted surface layer has completely disappeared and the surface of ice is highly ordered. It has two surface-specific vibrational modes at higher frequencies (∼3530 cm-1 and ∼3700 cm-1) [3001]. The vibration at ∼3700 cm-1 corresponds to the free surface hydroxyl group whereas the ∼3530 cm-1 vibration corresponds to the vibration of surface water molecules involving the free surface lone pair. 
+>Interestingly, the air-water interface may give rise to chiral selectivity and recognition [1285]. The surface may, therefore, act as the isotropic bulk cannot. It presents a mechanism for the choice of chirality early in the formation of life's molecules; for example, the D-series of carbohydrates and the L-series of amino acids. Even simple neutral organic pollutants such as phenol have been shown to significantly affect the interfacial water structure [3083].
 
  
 
-Although ice is often perceived as 'slippery' (for example, ice skating), it is also very 'sticky' (for example, the difficulty in removing ice from car windscreens, the compaction of snow to form 'snowballs' and the ease with which two ice cubes stick together). The underlying slipperiness of ice can be explained by the tetrahedral open structuring [1859] of the liquid water surface that aids the formation of a slipping plane on confinement, whereas its 'stickiness' is due to the refreezing of liquid water confined between ice surfaces. Capillary condensation of liquid water between a tungsten tip and a hydrophobic graphite surface using a friction force microscope has been proposed to form a sticky 'ice' at room temperature [1033]. l These different perceptions depend on the speed of the relative movement between the surfaces and the presence and properties of the ultra-thin layer of quasi-liquid water/amorphous ice on the crystalline surfaces [937] that may be 10 nm thick or greater. This surface layer is easily melted further by frictional heating with the low thermal conductivity of ice reducing the loss of heat. Also, there is a deformation of the ice, on skating, due to the pressure and the ease that the ice may deform (plowing). The trails behind the skates are due to both the melting and the plowing. At low skating speeds, the plowing dominates whilst at high speeds the friction in the water layer dominates [2944].
+>Recently, it has been discovered that the charge on the interface affects the freezing point of supercooled water [1737]. On a surface with no electric field, water droplets were found to freeze at around -12.5 °C. On a positively charged surface, however, the freezing point is raised to -7 °C, while if the surface is negatively charged the droplet does not freeze until the temperature reaches -18 °C. Whether this strange behavior is due to the reversal of the charge of the natural negatively-charged surface destroying the water clustering has yet to be determined. 
+
+
+>The surface of ice (Why is ice slippery?) 
+>There is a recent review of the surface of ice [3006]. Hexagonal ice is a very soft material (1.5 on the Mohs scale) being scratched by most crystalline solids except soapstone, Mg<sub>3<\sub>Si<sub>4<\sub>O<sub>10<\sub>(OH)<sub>2<\sub>. The surface is liquid below 0 °C due to the pressure melting caused by the one-sided attractive interaction with the underlying solid ice [1686]. There is good evidence that the surface layer is indistinguishable from normal liquid water with a thickness that depends upon the temperature (that is, the further below the freezing point, the thinner the layer; it being many nanometers thick at -1 °C but has disappeared by about -38 °C). There appears to be a weakening of the hydrogen-bonded structure of the outermost water (corrugated) layers on the basal face at 257 K. This has been interpreted in terms of a stepwise change from one to two molten layers [2842]. 
+
+ 
+
+>Recently it has been proposed that the quasi-liquid layer is made up of two-phase types that exhibit different morphologies (droplets and thin layers) [2581]. The surfaces can be examined by laser confocal microscopy combined with differential interference contrast microscopy (LCM-DIM), which can directly visualize the 0.37-nm-thick elementary steps on ice crystal surface. The non-equilibrium growth of these layers seems to form by the deposition of (critically) supersaturated water vapor onto the ice surface rather than by the surface melting of the ice or the sublimation of ice caused by undersaturated water vapor [2581].
+
+ 
+
+>As the surface of ice, near its melting point and exposed to the air, is partially melted, it is able to take up ions and organic molecules with ease. Dissolved materials lower the freezing point and so increase the thickness of the molten layer. Also, reactions take place within this liquid-like phase. However, the pre-melted surface of ice has unique solvation properties, different from those of liquid water, in that ions dissolve but small molecular weight hydrophilic organic molecules, such as glyoxal (O=CH-CH=O), do not [2969]. At low temperatures (~150 K), the melted surface layer has completely disappeared and the surface of ice is highly ordered. It has two surface-specific vibrational modes at higher frequencies (∼3530 cm<sup-1<\sup> and ∼3700 cm<sup-1<\sup>) [3001]. The vibration at ∼3700 cm<sup-1<\sup> corresponds to the free surface hydroxyl group whereas the ∼3530 cm<sup-1<\sup> vibration corresponds to the vibration of surface water molecules involving the free surface lone pair. 
+
+ 
+
+>Although ice is often perceived as 'slippery' (for example, ice skating), it is also very 'sticky' (for example, the difficulty in removing ice from car windscreens, the compaction of snow to form 'snowballs' and the ease with which two ice cubes stick together). The underlying slipperiness of ice can be explained by the tetrahedral open structuring [1859] of the liquid water surface that aids the formation of a slipping plane on confinement, whereas its 'stickiness' is due to the refreezing of liquid water confined between ice surfaces. Capillary condensation of liquid water between a tungsten tip and a hydrophobic graphite surface using a friction force microscope has been proposed to form a sticky 'ice' at room temperature [1033]. l These different perceptions depend on the speed of the relative movement between the surfaces and the presence and properties of the ultra-thin layer of quasi-liquid water/amorphous ice on the crystalline surfaces [937] that may be 10 nm thick or greater. This surface layer is easily melted further by frictional heating with the low thermal conductivity of ice reducing the loss of heat. Also, there is a deformation of the ice, on skating, due to the pressure and the ease that the ice may deform (plowing). The trails behind the skates are due to both the melting and the plowing. At low skating speeds, the plowing dominates whilst at high speeds the friction in the water layer dominates [2944].
 
 Metal interfaces
 The oxygen atoms of water bind to metal atom surfaces whereas the hydrogen atoms hydrogen bond surface water [2734].
