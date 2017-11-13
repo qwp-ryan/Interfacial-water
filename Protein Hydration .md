@@ -1,14 +1,14 @@
-Protein Hydration
+#  Protein Hydration
 Water is a major contributor to a protein's 3-D structure and the protein controls the structuring of its surrounding water.
 
  
 
  
 
-V The contribution of water to protein structure
-V Water in protein recognition and binding 
-V Water in protein and enzyme function 
-V Protein folding and denaturation
+- The contribution of water to protein structure
+- Water in protein recognition and binding 
+- Water in protein and enzyme function 
+- Protein folding and denaturation
 
  
 
